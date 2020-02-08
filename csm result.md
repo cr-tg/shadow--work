@@ -6,7 +6,7 @@
 
 ​	如下图绿色的代表视锥体，不同的视锥体之间，用绿色的深浅来区分。
 
-![1581129926472](https://github.com/cr-tg/shadow--work/tree/master/csm图集/1581129926472.png)
+![1581129926472](https://github.com/cr-tg/shadow--work/blob/master/csm%E5%9B%BE%E9%9B%86/1581079115052.png)
 
 
 
