@@ -20,11 +20,11 @@
 
 
 
-![1581130014408](https://github.com/cr-tg/shadow--work/tree/master/csm_pictureSet/1581130014408.png)
+![1581130014408](https://github.com/cr-tg/shadow--work/blob/master/csm_pictureSet/1581130014408.png)
 
-![1581130055840](https://github.com/cr-tg/shadow--work/tree/master/csm_pictureSet/1581130055840.png)
+![1581130055840](https://github.com/cr-tg/shadow--work/blob/master/csm_pictureSet/1581130055840.png)
 
-![1581130092315](https://github.com/cr-tg/shadow--work/tree/master/csm_pictureSet/1581130092315.png)
+![1581130092315](https://github.com/cr-tg/shadow--work/blob/master/csm_pictureSet/1581130092315.png)
 
 
 
@@ -34,11 +34,11 @@
 
 ​	普通的shadow map:
 
-![1581130779706](https://github.com/cr-tg/shadow--work/tree/master/csm_pictureSet/1581130779706.png)
+![1581130779706](https://github.com/cr-tg/shadow--work/blob/master/csm_pictureSet/1581130779706.png)
 
 CSM：下面的4个长发形是4个连续的视锥体形成的阴影图。只不过第3个，4个的相机视锥体中没有物体，因此是无阴影的。
 
-![1581130810304](https://github.com/cr-tg/shadow--work/tree/master/csm_pictureSet/1581130810304.png)
+![1581130810304](https://github.com/cr-tg/shadow--work/blob/master/csm_pictureSet/1581130810304.png)
 
 
 
