@@ -8,7 +8,7 @@ typora-copy-images-to: pcfAndPcss_pictureSet
 
 ​	来自GDC08中的两种技术的实现与比较：
 
-![0](E:\工作项目\csm\shadow--work\pcfAndPcss_pictureSet\0.png)
+![0](https://github.com/cr-tg/shadow--work/blob/master/pcfAndPcss_pictureSet/0.png)
 
 ## pcf：
 
