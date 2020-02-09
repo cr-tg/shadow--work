@@ -16,7 +16,7 @@ typora-copy-images-to: pcfAndPcss_pictureSet
 
 1. 普通的shadow map可以看到现在的走样情况是比较严重的，因为阴影只有1与0的区别，导致锯齿很明显。
 
-   ![1581252257463](E:\工作项目\csm\shadow--work\pcfAndPcss_pictureSet\pcf1.png)
+   ![1581252257463](https://github.com/cr-tg/shadow--work/blob/master/pcfAndPcss_pictureSet/pcf1.png)
 
 
 
