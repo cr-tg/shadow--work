@@ -2,7 +2,13 @@
 
 [TOC]
 
+  之前的截图，在峨眉山场景中的应用。
+  峨眉山远景：
+  ![csmFar](https://github.com/cr-tg/shadow--work/blob/master/csm_pictureSet/csmFar.bmp)
+  峨眉山近景：
+  ![csmNear](https://github.com/cr-tg/shadow--work/blob/master/csm_pictureSet/csmNear.bmp)
 ​	因为是在家里重做的demo，没有合适的场景模型，因此做了一个场景将摄像机划分后的视锥体以及light的视锥体都可视化了出来。这样也能证明算法的正确性。
+
 
 ​	如下图绿色的代表视锥体，不同的视锥体之间，用绿色的深浅来区分。
 
